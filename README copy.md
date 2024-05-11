@@ -144,26 +144,6 @@ For more about data: http://www.unb.ca/cic/datasets/nsl.html
 3. <b>U2R:</b> unauthorized access to local super user (root) privileges is an attack type, by which an attacker uses a normal account to login into a victim system and tries to gain root/administrator privileges by exploiting some vulnerability in the victim e.g. buffer overflow attacks. Relevant features: “number of file creations” and “number of shell prompts invoked,” 
 4. <b>R2L:</b> unauthorized access from a remote machine, the attacker intrudes into a remote machine and gains local access of the victim machine. E.g. password guessing Relevant features: Network level features – “duration of connection” and “service requested” and host level features - “number of failed login attempts” 
 
-### How to Use
-
-Just follow 3 simple steps :
-
-1. Go to project website link https://nids-api.herokuapp.com/ .<br>
-
-2. Fill the form as shown below :<br><br>
-
-![](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/results/2020-06-15%2015_28_16-Window.png)<br>
-![](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/results/2020-06-15%2015_29_02-Window.png)<br>
-
-3. Then Click on Predict and you get the predicted attack class .<br><br>
-
-![](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/results/2020-06-15%2015_30_02-Window.png)<br>
-
-**If you face any problem :** email me at *vg60629@gmail.com*
-
-### LICENSE
-
-[MIT License](https://github.com/vicky60629/Network-Intrusion-Detection-System/blob/master/LICENSE)
 
 Copyright (c) 2020 Vicky Gupta
 
